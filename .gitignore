@@ -1,0 +1,36 @@
+Question page html
+
+<div class='main-body'>
+        <header class='high-score'>
+        </header>
+        <div class='content'>
+            <div class='quiz'>
+                <h1>Question</h1>
+            </div>
+            <div class='information1'>
+                <ui>
+                    <li>
+                        <button>1</button>
+                        answer
+                    </li>
+                    <li>
+                        <button>2</button>
+                        answer
+                    </li>
+                    <li>
+                        <button>3</button>
+                        answer
+                    </li>
+                    <li>
+                        <button>4</button>
+                        answer
+                    </li>
+                </ui>
+            </div>
+            <div class='information2'>
+                <p>Correct</p>
+            </div>
+            <div class='button'>
+            </div>
+        </div>
+    </div>
